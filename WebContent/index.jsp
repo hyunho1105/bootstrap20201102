@@ -8,6 +8,8 @@
 </head>
 <body>
 <table class="table">
+<!-- 주석 ctrl +shift+/ -->
+<!-- table.table>tr>th*3^tr*3>td*3 -->
 	<tr>
 		<th>Lorem.</th>
 		<th>Aperiam.</th>
