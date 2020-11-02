@@ -11,29 +11,33 @@
 <title>Insert title here</title>
 </head>
 <body>
+<div class="container">
+<!-- table.table>tr>th*3>lorem1^^tr*3>th*3>loram1 -->
 <table class="table">
-<!-- 주석 ctrl +shift+/ -->
-<!-- table.table>tr>th*3^tr*3>td*3 -->
 	<tr>
 		<th>Lorem.</th>
-		<th>Aperiam.</th>
-		<th>Quidem.</th>
+		<th>Ipsum!</th>
+		<th>Laborum.</th>
 	</tr>
 	<tr>
-		<td>Lorem.</td>
-		<td>Placeat.</td>
-		<td>Impedit!</td>
+		<th>Lorem.</th>
+		<th>Voluptate!</th>
+		<th>Vitae.</th>
 	</tr>
 	<tr>
-		<td>Lorem.</td>
-		<td>Blanditiis.</td>
-		<td>Veritatis.</td>
+		<th>Lorem.</th>
+		<th>Harum.</th>
+		<th>Consequuntur?</th>
 	</tr>
 	<tr>
-		<td>Lorem.</td>
-		<td>Sit.</td>
-		<td>Alias.</td>
+		<th>Lorem.</th>
+		<th>Temporibus.</th>
+		<th>Officiis?</th>
 	</tr>
 </table>
+
+</div>
+
+<div class="container-fluid"></div>
 </body>
 </html>

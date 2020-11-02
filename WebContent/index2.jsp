@@ -11,29 +11,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<table class="table">
-<!-- 주석 ctrl +shift+/ -->
-<!-- table.table>tr>th*3^tr*3>td*3 -->
-	<tr>
-		<th>Lorem.</th>
-		<th>Aperiam.</th>
-		<th>Quidem.</th>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Placeat.</td>
-		<td>Impedit!</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Blanditiis.</td>
-		<td>Veritatis.</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Sit.</td>
-		<td>Alias.</td>
-	</tr>
-</table>
+<!-- buuton.btn.btn-primary>lorem1 -->
+<buuton class="btn btn-primary">Lorem.</buuton>
+
+
 </body>
 </html>
